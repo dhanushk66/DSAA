@@ -22,7 +22,7 @@
 
 **Preprocess.py**: A python function used by other python files for parts of the preprocessing. 
 
-**New Terms Labelling**: Details of the procedure used to label outputs of the system as New Terms.
+**New Terms Labeling**: Details of the procedure used to label outputs of the system as New Terms.
 
 **DSAA2024.pdf**: The pdf of the conference paper.
 
