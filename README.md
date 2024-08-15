@@ -1,4 +1,8 @@
-## This is the official Github Repository for, "Coded Term Discovery for Online Hate Speech Detection" presented at the 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024)
+## This is the official Github Repository for, "Coded Term Discovery for Online Hate Speech Detection" to be presented at the 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024)
+
+**Please refer to the paper as follows:**
+Kikkisetti, D., Mustafa, R., Melillo, W., Corizzo, R., Boukouvalas, Z., Gill, J., Japkowicz, N., "Coded Term Discovery for Online Hate Speech Detection", to appear in the 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA'2024).  
+
 ### Here is the description for each file in the repository:
 **Antisemitism_term_definition.csv** : It contains the definition of all the antisemitic seed words we have used in the paper.
 
